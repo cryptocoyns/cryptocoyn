@@ -1,6 +1,6 @@
-Release notes 1.1.1
+Release notes 1.2.0
 
-- New API for CryptoNote RPC Wallet
+- First cut of CryptoCoyn
 
 Release notes 1.1.0
 
